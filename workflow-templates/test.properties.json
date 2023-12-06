@@ -1,5 +1,5 @@
 {
     "name": "Hello World",
     "description": "Say hello to the world",
-    "categories": ["Continuous-integration"],    
+    "categories": ["Continuous integration"],    
 }
